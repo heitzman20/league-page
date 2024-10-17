@@ -7,8 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Former greatest league in the world</p>
-  <p>I guess</p>
+  <p>Founded in 2010, the ASU Fantasy Football League (ASU FFL) has emerged as a premier destination for passionate fantasy football enthusiasts, deeply rooted in the spirited community surrounding Arizona State University. With a roster of 12 dedicated owners, the league has seen its share of turnover, welcoming newcomers while celebrating the legacies of those who have moved on. Each season, this fiercely competitive league brings together a diverse group of players who share a love of football, strategy, and camaraderie.</p>
+  <p>ASU FFL prides itself on its competitive integrity and vibrant culture, forging friendships that often extend beyond the game. Known for its engaging draft parties, weekly trash talk, and intense rivalries, the league considers itself the best in the world. With unique traditions and a strong commitment to the sport, ASU FFL not only ignites friendly competition but also cultivates a sense of belonging for all its members, creating a fantasy football experience unlike any other.</p>
+  <p>The fight for the Tillman Trophy never ends.</p>
 `;
 
 /*   STEP 3   */
